@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Str0ng3r/exchangervalut/static/css/main.f855e6bc.css",
+    "main.js": "/Str0ng3r/exchangervalut/static/js/main.c973aa6e.js",
+    "static/js/787.59c75897.chunk.js": "/Str0ng3r/exchangervalut/static/js/787.59c75897.chunk.js",
+    "static/media/logo.svg": "/Str0ng3r/exchangervalut/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Str0ng3r/exchangervalut/index.html",
+    "main.f855e6bc.css.map": "/Str0ng3r/exchangervalut/static/css/main.f855e6bc.css.map",
+    "main.c973aa6e.js.map": "/Str0ng3r/exchangervalut/static/js/main.c973aa6e.js.map",
+    "787.59c75897.chunk.js.map": "/Str0ng3r/exchangervalut/static/js/787.59c75897.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c973aa6e.js"
+  ]
+}
